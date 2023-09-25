@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 📫 How to reach me **[xiangtw26701@gmail.com](mailto:xiangtw26701@gmail.com)**
+- 📫 How to reach me **[xiangtw26701@gmail.com](mailto:xiangtw26701@gmail.com), [mail@charlie266701.dev](mailto:mail@charlie266701.dev)**
 
 ## 🌐 Programming Languages
 
