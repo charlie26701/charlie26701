@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charlie.</h1>
 <h3 align="center">A passionate full stack developer from Taiwan</h3>
 
-###
-
-<h2 align="left">🐶 About me</h2>
-
-###
+## 🐶 About me
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlie26701&label=Profile%20views&color=0e75b6&style=flat" alt="charlie26701" /> </p>
 
@@ -13,17 +9,9 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 📫 How to reach me **xiangtw26701@gmail.com**
+- 📫 How to reach me **[xiangtw26701@gmail.com](mailto:xiangtw26701@gmail.com)**
 
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-</div>
-
-###
-
-<h2 align="left">🌐 Programming Languages</h2>
+## 🌐 Programming Languages
 
 ###
 
@@ -69,7 +57,7 @@
 
 ###
 
-<h2 align="left">🔎 Tools</h2>
+## 🔎 Tools
 
 ###
 
